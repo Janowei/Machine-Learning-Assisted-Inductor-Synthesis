@@ -33,3 +33,6 @@ Three softwares that this demo program depends on are as follows:
 1. Cadence Virtuoso: Required version is 6.18, and please add the <VirtuosoPath>/bin directory to the environment variable. Make sure that input "virtuoso -V" in the terminal will output the version information correctly. 
 2. EMX: Required version is 5.x. Please add <EMXPath> to the environment variable. Make sure that input "emx --version" in the terminal will output the version information correctly. 
 3. Matlab: Required version is 2018b and above. 2018b is recommended.
+
+please cite: 
+J. Wei et al., "Highly Efficient Automatic Synthesis of a Millimeter-Wave On-Chip Deformable Spiral Inductor Using a Hybrid Knowledge-Guided and Data-Driven Technique," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2023.3294449.
